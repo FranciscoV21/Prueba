@@ -1,7 +1,1 @@
 hola hola mundo
-<<<<<<< HEAD
-
-Master
-=======
-mi rama
->>>>>>> mirama
